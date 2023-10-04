@@ -1,5 +1,6 @@
 <div align="center"><h1 style=align="center">MP-MiniCNC-V1</h1></div>
 <div align="center"><img src="media/MP-MiniCNC- V1-2023_render.jpg" width="100%"></div>
+
 Introduction
 --
 
