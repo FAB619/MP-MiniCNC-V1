@@ -11,9 +11,9 @@ Welcome to the **MP-Mini-CNC** machine documentation.
 
 Specifications
 --
-- Build volume: 200x200x200mm
+- Build volume: 250x360x150mm
 - Sturdy Steel frame for stability and reduced vibration
-- bed: aluminum with  non-sticking layer
+- bed: Aluminum with M5 Thread 
 - motion: SFU 1204 Ballscrew.
 - guides: 15 & 12mm linear shaft, Hiwin HG & MGN Series 15 & 12mm linear rails. HG 15 for XY axis an MGN12 for Z axis.
 - motors: stepper motor NEMA 23
