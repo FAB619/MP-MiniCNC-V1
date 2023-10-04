@@ -22,6 +22,14 @@ Specifications
 - **MCU:** NXP MMXRT1062DVJB, ARM Cortex-M7 at 600 MHz
 - Pcb Board: **[Teensy CNC Board]()** board.
 
+Files
+--
+
+- **[CAD Files ]()**
+- **[Fabrication Files ]()**
+- **[Assembly Book](https://github.com/FAB619/MP-MiniCNC-V1/blob/main/MP-MiniCNC-%20V1-2023_AssemblyGuide.pdf)** 
+- **[Firmware]()**
+
 Acknowledgements
 --
 The development of this machine is part of **Digital4Job Project** implemented by: 
