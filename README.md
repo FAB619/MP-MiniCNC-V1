@@ -1,5 +1,8 @@
 <div align="center"><h1 style=align="center">MP-MiniCNC-V1</h1></div>
-# Introduction
+
+Introduction
+--
+
 Welcome to the **MP-Mini-CNC** machine documentation.
 
 **We are excited to share our open-source desktop CNC machine project in collaboration with Inmachines Gmbh!!**
