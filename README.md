@@ -22,6 +22,11 @@ Specifications
 - **MCU:** NXP MMXRT1062DVJB, ARM Cortex-M7 at 600 MHz
 - Pcb Board: **[Teensy CNC Board]()** board.
 
+Electonics
+--
+Electronics design are one of the key features of FAB619 products. All products are 100% designed & made in tunisia. The electronics and boards are designed locally and fully functional with more addons.
+
+
 Files
 --
 
