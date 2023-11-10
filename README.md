@@ -17,8 +17,7 @@ Specifications
 - motion: SFU 1204 Ballscrew.
 - guides: 15 & 12mm linear shaft, Hiwin HG & MGN Series 15 & 12mm linear rails. HG 15 for XY axis an MGN12 for Z axis.
 - motors: stepper motor NEMA 23
-- drivers: trinamic TB6600
-- adjustable and heated printing bed
+- drivers: Toshiba TB6600
 - **MCU:** NXP MMXRT1062DVJB, ARM Cortex-M7 at 600 MHz
 - Pcb Board: **[Teensy CNC Board]()** board.
 
