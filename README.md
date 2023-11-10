@@ -30,9 +30,9 @@ Files
 --
 
 - **[CAD Files ]()**
-- **[Fabrication Files ]()**
+- **[Fabrication Files ](https://github.com/FAB619/MP-MiniCNC-V1/tree/main/Fabrication)**
 - **[Assembly Book](https://github.com/FAB619/MP-MiniCNC-V1/blob/main/MP-MiniCNC-%20V1-2023_AssemblyGuide.pdf)** 
-- **[Firmware]()**
+- **[Firmware](https://github.com/FAB619/MP-MiniCNC-V1/tree/main/Firmware)**
 
 Acknowledgements
 --
